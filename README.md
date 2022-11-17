@@ -7,8 +7,8 @@ Right now, I'm
 - developing innovative technologies with AWS, React.js, and Vue.js at [GROWMARK Inc.](https://www.linkedin.com/company/growmark-inc./)
 - and of course, working on open source projects!
 
-Outside of tech, I'm also studying Philosophy, am involved in student advocacy and governance at my university, spin disks as a DJ on the weekends, and just
-generally seek out connections with intersting people and exciting opportunites I can dive into.
+Outside of tech, I'm also studying Philosophy, am involved in student advocacy and governance at my university, and just
+generally am always seeking out connections with intersting people and exciting opportunites I can dive into.
 
 ## How to contact me
 If you're intersted on collaborating on a project of any sort, reach out!
