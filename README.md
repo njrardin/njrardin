@@ -4,6 +4,7 @@ I believe software should be open and free, and I'm always available to help out
 ## What I do
 Right now, I'm
 - studying Computer Science at [Illinois State University](https://www.linkedin.com/school/illinois-state-university/)
+- Developing AWS cloud-based solutions as an intern at State Farm
 - and of course, working on open source projects!
 
 Outside of tech, I'm also studying Philosophy, am involved in student advocacy and governance at my university, and just
